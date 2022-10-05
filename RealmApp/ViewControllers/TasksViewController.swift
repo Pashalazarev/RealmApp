@@ -58,9 +58,8 @@ class TasksViewController: UITableViewController {
     }
 
 //    override func tableView(_ tableView: UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: IndexPath) -> UISwipeActionsConfiguration? { // метод с помощью которого появляются 3 кнопочки слева направа
-//       
 //        
-//    }
+//    } 
     
 }
 
